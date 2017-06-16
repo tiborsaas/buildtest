@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tiborsaas/buildtest/issues"
   },
-  "homepage": "https://github.com/tiborsaas/buildtest#readme"
+  "homepage": "https://github.com/tiborsaas/buildtest#readme",
+  "dependencies": {
+    "node-sass": "^4.5.3"
+  }
 }
