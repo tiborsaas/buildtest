@@ -1,6 +1,7 @@
 language: node_js
-install: npm install
-script: npm start
+script:
+  - npm install
+  - npm start
 deploy:
   provider: pages
   skip-cleanup: true
